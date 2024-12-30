@@ -1,0 +1,112 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #F9F7F1; 
+}
+
+.heading1{
+    font-weight: bold;
+    text-align: center;
+}
+.smallHeading3{
+    text-align: center;
+    border-bottom: 3px solid rgb(54,53,49);
+    border-top: 3px solid rgb(54,53,49);
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.sup1{
+    font-weight: 400;
+    font-size: small;
+}
+.td1{
+    padding-left: 20px;
+    padding-right: 33px;
+    width: 33%;
+}
+.td2{
+    width: 30%;
+    text-align: justify; 
+    font-size: small;    
+    border-left: 3px solid ; 
+    line-height: 18px;
+    margin: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+.td3{
+    width: 30%;
+    text-align: justify;
+    font-size: small;
+    border-left: 3px solid ; 
+    line-height: 18px;
+    margin: 20px;
+    padding-left: 20px;
+
+}
+.outpara{
+    font-weight: 600;
+    font-size: 25px;
+    margin-left: 30px;
+    text-align: center;
+}
+.newTable{
+    font-size: small;     
+    line-height: 18px;
+}
+.newTd1{
+    padding-left: 20px;
+    padding-right: 33px;
+    width: 33%;
+    text-align: justify;
+    margin: 20px;
+}
+.list{
+    list-style-type:"☕";
+}
+.newTd2{
+    font-size: small;    
+    border-left: 3px solid ; 
+    line-height: 18px;
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 30%;
+    text-align: justify;
+    margin: 20px;
+}
+
+#div_8{
+    text-align: justify;
+    font-size: small;
+    line-height: 18px;
+    margin: 20px;
+    padding-left: 10px;
+    
+       
+}
+#caption{
+    text-align: left;
+    font-weight: bold;
+    font-size: small;
+    font-size: 13px;
+     
+}
+img {
+    float: left;
+    margin-right: 15px;
+    padding-right: 15px;
+}
+
+#td6{
+    width: 30%;
+    text-align: justify;
+    font-size: small;
+    border-left: 3px solid ; 
+    line-height: 18px;
+    margin: 15px;
+    padding-left: 10px;
+}
